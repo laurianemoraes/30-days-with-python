@@ -10,3 +10,5 @@
 
 ## 2 day- get knowlwdge about open data bases and start the course Data Analysis course from Google 
 
+## 3 day- first exercise from the video Learn Python - Full Course for Beginners [Tutorial] (freeCodeCamp) and reading of a few theoretical concepts 
+
