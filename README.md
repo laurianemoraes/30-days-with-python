@@ -8,8 +8,8 @@
 ###### 1 project - calculate the age in seconds,
 ###### 2 project - calculate the percentage.
 
-### 2 day- get knowlwdge about open data bases and start the course Data Analysis course from Google 
+#### 2 day- get knowlwdge about open data bases and start the course Data Analysis course from Google 
 
-### 3 day- first exercise from the video Learn Python - Full Course for Beginners [Tutorial] (freeCodeCamp) and reading of a few theoretical concepts 
+#### 3 day- first exercise from the video Learn Python - Full Course for Beginners [Tutorial] (freeCodeCamp) and reading of a few theoretical concepts 
 
-### 4 day- exercise about functions from the video Learn Python (freeCodeCamp)
+#### 4 day- exercise about functions from the video Learn Python (freeCodeCamp)
