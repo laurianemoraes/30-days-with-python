@@ -15,3 +15,7 @@
 
 #### 4 day- exercise about functions from the video Learn Python (freeCodeCamp)
 ###### 4 project - functions.
+
+#### 5 day- exercise about number and inputs from the user from the video Learn Python (freeCodeCamp)
+###### 5 project - numbers(import of the math library),
+###### 6 project - hiUser - to receive the information from the user and show.
