@@ -1,0 +1,11 @@
+animal=input("Animal name: ")
+king=input("The name of the king: ")
+daughter=input("The name of the daughter: ")
+adjective=input("Enter an adjective adjective: ")
+place=input("Enter an place: ")
+
+print("Upon once a time " + animal)
+print("exist a king "+ king)
+print("he have a daughter "+ daughter)
+print("they walked onto the "+ adjective)
+print("they got into the  "+ place)
