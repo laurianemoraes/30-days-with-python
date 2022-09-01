@@ -24,4 +24,5 @@
 ###### 7 project - calculator
 
 #### 7 day- mad libs  from the video Learn Python (freeCodeCamp)
-###### 7 project - mad libs
+###### 8 project - mad libs
+###### 9 project - lists
