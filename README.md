@@ -22,3 +22,6 @@
 
 #### 6 day- a simple calculator  from the video Learn Python (freeCodeCamp), search to make a switch case with python(stackoverflow)
 ###### 7 project - calculator
+
+#### 7 day- mad libs  from the video Learn Python (freeCodeCamp)
+###### 7 project - mad libs
