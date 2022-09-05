@@ -26,3 +26,8 @@
 #### 7 day- mad libs  from the video Learn Python (freeCodeCamp)
 ###### 8 project - mad libs
 ###### 9 project - lists
+
+#### 8 day- learned how to use the return in a calculator and functions with def command also learned about statements and comparisons from the video Learn Python (freeCodeCamp)
+###### 10 project - calculatorII
+###### 11 project - functions II
+###### 12 project - biggestNumber
