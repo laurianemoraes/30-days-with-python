@@ -31,3 +31,5 @@
 ###### 10 project - calculatorII
 ###### 11 project - functions II
 ###### 12 project - biggestNumber
+
+#### 9 day- ended the first week course Data Analysis course from Google 
