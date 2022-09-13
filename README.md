@@ -33,3 +33,7 @@
 ###### 12 project - biggestNumber
 
 #### 9 day- ended the first week course Data Analysis course from Google 
+
+#### 10 day- a complete calculator and dictionary from the video Learn Python (freeCodeCamp)
+###### 13 project - calculatorIII
+###### 14 project - dictionaries
