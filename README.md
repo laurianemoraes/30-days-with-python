@@ -28,12 +28,18 @@
 ###### 9 project - lists
 
 #### 8 day- learned how to use the return in a calculator and functions with def command also learned about statements and comparisons from the video Learn Python (freeCodeCamp)
-###### 10 project - calculatorII
+###### 10 project - calculator II
 ###### 11 project - functions II
 ###### 12 project - biggestNumber
 
 #### 9 day- ended the first week course Data Analysis course from Google 
 
 #### 10 day- a complete calculator and dictionary from the video Learn Python (freeCodeCamp)
-###### 13 project - calculatorIII
+###### 13 project - calculator III
 ###### 14 project - dictionaries
+
+#### between 11 and 16 day's- ended the second week course Data Analysis course from Google 
+
+#### 17 day- learned about while loops and how to make a guessing game ( that is a loop game with a limit of tries and count the numbers of chances of the usuario, the game return a menssage when the usuario is without guesses) from the video Learn Python (freeCodeCamp)
+###### 15 project - while loop
+###### 16 project - guess game 
