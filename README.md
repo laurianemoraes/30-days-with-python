@@ -43,3 +43,7 @@
 #### 17 day- learned about while loops and how to make a guessing game ( that is a loop game with a limit of tries and count the numbers of chances of the usuario, the game return a menssage when the usuario is without guesses) from the video Learn Python (freeCodeCamp)
 ###### 15 project - while loop
 ###### 16 project - guess game 
+
+#### 18 day- introduction about the for loops and hopw to work with exponent funcion on python using the loops from the video Learn Python (freeCodeCamp)
+###### 17 project - for loops
+###### 18 project - exponent
