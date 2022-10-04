@@ -1,10 +1,10 @@
-## 30-days-with-python
+## 30 DAYS WITH PYTHON
 
 ### This project it's part of my self-learning process of Python.
 
-###### the main goal of this  30 days jouney is to push a new project along these this month
+###### the main goal of this 30 days journey is get the basic knowledge about this program.
 
-#### 1 day- to undertand how python works and do the 2 first projects;
+#### 1 day- to undertand how python works and do the 2 firsts projects;
 ###### 1 project - calculate the age in seconds,
 ###### 2 project - calculate the percentage.
 
@@ -17,8 +17,8 @@
 ###### 4 project - functions.
 
 #### 5 day- exercise about number and inputs from the user from the video Learn Python (freeCodeCamp)
-###### 5 project - numbers(import of the math library),
-###### 6 project - hiUser - to receive the information from the user and show.
+###### 5 project - numbers(import of the math library)
+###### 6 project - hiUser (receive the information from the user and show).
 
 #### 6 day- a simple calculator  from the video Learn Python (freeCodeCamp), search to make a switch case with python(stackoverflow)
 ###### 7 project - calculator
